@@ -1,0 +1,3 @@
+# Ignore Node_modules
+node_modules/
+public/
